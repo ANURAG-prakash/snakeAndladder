@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\bin\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.exe
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\bin\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.deps.json
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\bin\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\bin\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\bin\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.dll
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\bin\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.pdb
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.dll
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.pdb
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.genruntimeconfig.cache
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC7_PlayWithTwoPlayer\obj\Debug\netcoreapp3.1\UC7_PlayWithTwoPlayer.csprojAssemblyReference.cache
