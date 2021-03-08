@@ -1,0 +1,12 @@
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\obj\Debug\netcoreapp3.1\UC6_postion.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\obj\Debug\netcoreapp3.1\UC6_postion.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\obj\Debug\netcoreapp3.1\UC6_postion.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\bin\Debug\netcoreapp3.1\UC6_postion.exe
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\bin\Debug\netcoreapp3.1\UC6_postion.deps.json
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\bin\Debug\netcoreapp3.1\UC6_postion.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\bin\Debug\netcoreapp3.1\UC6_postion.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\bin\Debug\netcoreapp3.1\UC6_postion.dll
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\bin\Debug\netcoreapp3.1\UC6_postion.pdb
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\obj\Debug\netcoreapp3.1\UC6_postion.dll
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\obj\Debug\netcoreapp3.1\UC6_postion.pdb
+C:\Users\praka\OneDrive\Desktop\22\UC2_LadderSnake\UC6_postion\obj\Debug\netcoreapp3.1\UC6_postion.genruntimeconfig.cache
